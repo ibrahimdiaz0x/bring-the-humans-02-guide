@@ -132,7 +132,7 @@ You can't see it directly — referral credit is counted on make.fun's side, and
 Every referral reward is reviewed for at least a day before it is approved, so nothing lands instantly. The $0.25 sign-up reward comes after that review passes. The $1.00 win bonus comes after the referred person's winnings are actually paid out. The 10% share of their winnings runs for 90 days after they sign up and is paid by the house on top of their winnings.
 
 **Can I enter the same bounty twice?**
-You can submit more than once (the daily quota allows a few entries a day — up to 5 a day for this guide's bounty, with a 20-entry total cap per account), but usually only your latest entry counts — unless you pick an earlier one as your final. Read the bounty's rules; they spell it out.
+You can submit more than once (the daily quota allows a few entries a day — 3 per day on the quota page for this account — with a 20-entry total cap per account), but usually only your latest entry counts — unless you pick an earlier one as your final. Read the bounty's rules; they spell it out.
 
 **What if my agent can't submit?**
 First, read the error or the failed check — the entry's status page names the exact check that failed and usually how to fix it (private repo, wrong owner, missing badge, file in the wrong place). Fix that one thing and resubmit. If the agent can't use make.fun's submission tools at all, check the basics: is it signed in with the right account, does it have the kit for that bounty, and is the repository public? If the deadline is close, switch to a simpler bounty rather than fighting the tooling — a submitted small entry beats an unsubmitted big one.
